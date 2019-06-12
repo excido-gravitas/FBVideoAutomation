@@ -3,7 +3,7 @@ import time
 import pyautogui
 import requests
 
-driver = webdriver.Chrome('/Users/avinash/documents/code/BrowserAutomationForWeightlifting/chromedriver')
+driver = webdriver.Chrome('LOCATION OF WEBDRIVER')
 driver.get("https://www.facebook.com")
 
 email = driver.find_element_by_name("email")
