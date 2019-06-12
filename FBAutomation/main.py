@@ -49,6 +49,9 @@ for i in urls[0:3]:
 
     time.sleep(3)
 
+
+    # the javascript code is inspired by https://stackoverflow.com/questions/20621084/how-to-get-list-of-network-requests-done-by-html
+
     js = """
     function getLargestFile() {
     
