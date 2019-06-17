@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>64</id>
+      <name>1.mov</name>
+      <size>96</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-06-17 02:19:44.175367+03:00</created>
+      <updated>2019-06-17 02:24:40.454770+03:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>95</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>mainPlate</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>otherPlate</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>75</id>
+          <start>0</start>
+          <stop>95</stop>
+          <url>http://localhost:8080/?id=75</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tejas</username>
+        <email>tejasvi.kothapalli@gmail.com</email>
+      </owner>
+      <original_size>
+        <width>898</width>
+        <height>514</height>
+      </original_size>
+    </task>
+    <dumped>2019-06-17 02:25:58.746689+03:00</dumped>
+    <source>/home/django/data/64/.upload/1.mov</source>
+  </meta>
+  <track id="0" label="mainPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="207.72" ytl="80.89" xbr="267.90" ybr="178.96">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="207.72" ytl="80.89" xbr="267.90" ybr="178.96">
+    </box>
+  </track>
+  <track id="1" label="mainPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="401.64" ytl="99.46" xbr="462.57" ybr="173.02">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="401.64" ytl="99.46" xbr="462.57" ybr="173.02">
+    </box>
+  </track>
+  <track id="2" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="634.95" ytl="225.03" xbr="697.36" ybr="297.10">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="634.95" ytl="225.03" xbr="697.36" ybr="297.10">
+    </box>
+  </track>
+  <track id="3" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="719.65" ytl="233.20" xbr="764.23" ybr="307.50">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="719.65" ytl="233.20" xbr="764.23" ybr="307.50">
+    </box>
+  </track>
+  <track id="4" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="711.48" ytl="176.74" xbr="747.89" ybr="230.97">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="711.48" ytl="176.74" xbr="747.89" ybr="230.97">
+    </box>
+  </track>
+  <track id="5" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="671.36" ytl="180.45" xbr="701.82" ybr="219.83">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="671.36" ytl="180.45" xbr="701.82" ybr="219.83">
+    </box>
+  </track>
+  <track id="6" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="189.14" ytl="282.99" xbr="233.72" ybr="345.40">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="189.14" ytl="282.99" xbr="233.72" ybr="345.40">
+    </box>
+  </track>
+  <track id="7" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="651.29" ytl="300.82" xbr="679.53" ybr="316.42">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="651.29" ytl="300.82" xbr="679.53" ybr="316.42">
+    </box>
+  </track>
+  <track id="8" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="689.19" ytl="298.59" xbr="723.37" ybr="311.22">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="689.19" ytl="298.59" xbr="723.37" ybr="311.22">
+    </box>
+  </track>
+  <track id="9" label="otherPlate">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="611.17" ytl="303.05" xbr="643.12" ybr="316.42">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="611.17" ytl="303.05" xbr="643.12" ybr="316.42">
+    </box>
+  </track>
+</annotations>
