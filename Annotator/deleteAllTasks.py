@@ -6,7 +6,7 @@ server = 'http://localhost:8080'
 api = '/api/v1'
 tasks = '/tasks'
 users = '/users'
-auth = ('tejas', 'teja322985')
+auth = ('<YOUR USERNAME>', '<YOUR PASSWORD>')
 
 fileObject = open("nameToIDMap",'rb')
 nameToIDMap = pickle.load(fileObject)
