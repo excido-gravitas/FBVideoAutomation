@@ -1,12 +1,13 @@
 import requests
 from tqdm import tqdm
 import pickle
+from config import config
 # First set up server api variables
 server = 'http://localhost:8080'
 api = '/api/v1'
 tasks = '/tasks'
 users = '/users'
-auth = ('<YOUR USERNAME>', '<YOUR PASSWORD>')
+auth = (config["user"], config["password"])
 
 fileObject = open("nameToIDMap",'rb')
 nameToIDMap = pickle.load(fileObject)

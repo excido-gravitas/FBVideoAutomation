@@ -1,12 +1,13 @@
 import requests
 import pickle
 from tqdm import tqdm
+from config import config
 # First set up server api variables
 server = 'http://localhost:8080'
 api = '/api/v1'
 tasks = '/tasks'
 users = '/users'
-auth = ('<YOUR USERNAME>', '<YOUR PASSWORD>')
+auth = (config["user"], config["password"])
 
 # get all files mounted on share
 req = server + api + '/server/share?directory=/'
