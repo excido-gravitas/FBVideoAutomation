@@ -15,7 +15,7 @@ llvmlite==0.29.0
 matplotlib==2.2.3
 mxnet==1.1.0.post0
 numba==0.39.0
-numpy==1.15.4
+numpy==1.22.0
 opencv-contrib-python==4.1.0.25
 opencv-python==3.4.3.18
 pandas==0.23.4
